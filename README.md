@@ -2,8 +2,8 @@
 
 Rust market making bot for [Polymarket](https://polymarket.com) prediction markets. Real-time order book and user streams, config via Google Sheets, position merging, and configurable market-making logic.
 
-**Repository:** [https://github.com/baker42757/Polymarket-market-maker-bot](https://github.com/baker42757/Polymarket-market-maker-bot)  
-**Telegram:** [@baker1119](https://t.me/baker1119)
+**Repository:** [https://github.com/gabagool23/Polymarket-market-maker-bot](https://github.com/gabagool23/Polymarket-market-maker-bot)  
+**Telegram:** [@gabagool21](https://t.me/gabagool21)
 
 ---
 
@@ -17,7 +17,7 @@ Rust market making bot for [Polymarket](https://polymarket.com) prediction marke
 
 ```bash
 # 1. Clone
-git clone https://github.com/baker42757/Polymarket-market-maker-bot.git
+git clone https://github.com/gabagool23/Polymarket-market-maker-bot.git
 cd Polymarket-market-maker-bot
 
 # 2. Env
